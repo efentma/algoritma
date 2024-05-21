@@ -1,0 +1,14 @@
+D:\ProjectNet\Algoritma\bin\Debug\net8.0\Algoritma.exe
+D:\ProjectNet\Algoritma\bin\Debug\net8.0\Algoritma.deps.json
+D:\ProjectNet\Algoritma\bin\Debug\net8.0\Algoritma.runtimeconfig.json
+D:\ProjectNet\Algoritma\bin\Debug\net8.0\Algoritma.dll
+D:\ProjectNet\Algoritma\bin\Debug\net8.0\Algoritma.pdb
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.AssemblyInfoInputs.cache
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.AssemblyInfo.cs
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.csproj.CoreCompileInputs.cache
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.dll
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\refint\Algoritma.dll
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.pdb
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\Algoritma.genruntimeconfig.cache
+D:\ProjectNet\Algoritma\obj\Debug\net8.0\ref\Algoritma.dll
